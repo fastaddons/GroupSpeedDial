@@ -1,22 +1,28 @@
-/* Copyright 2016-2021 Juraj Mäsiar - All Rights Reserved */
+/* Copyright 2016 Juraj Mäsiar - All Rights Reserved */
 
 What does this mean?
-Group Speed Dial is not an open source. I use some open source tools to build it, but the addon itself is closed source.
+This addon is not an open source. I use some open source tools to build it, but the addon itself is closed source.
 
 Why?
-I'm not a hobby programmer, I work on my addons full time for several years now and I would like to continue doing so.
-So eventually I'm trying to make some money out of it.
-I know it's possible with open source as well, but it's probably easier with closed source. Hence my paid version for Safari / Microsoft Edge (in progress).
+Programming is my hobby, but I'm not a hobby programmer :).
+I work on my addons full time, every day, often also on weekends. And I've been doing so for a several years now.
+My only income are donations, and as you can see on my Patreon page, I'm not doing so well:
+https://www.patreon.com/fastaddons
+
+If I want to keep doing this, I need to monetize my work. And since I hate ads, and I'm not willing to sacrifice user privacy by sharing data with a 3rd party, the only option is a "Freemium" model - where basic features are free and premium features are paid.
+Sadly, "freemium" doesn't go well with "opensource" since anyone could copy it and release it fully free.
+I guess any addon developer would tell you that making a living out of addons development is hard...
 
 Is it safe to use non-open source software?
-There is no difference - in fact, in the past many open source software were sold to an unknown 3rd party and become malware without any warning.
-For example "Nano Defender" (Chrome version). It's not like the author has to submit the same version as he has in the github repository! It's a false sense of security.
-So it's always important that you trust the author of the addon, not the addon itself.
+Of course it is! It's much more important that you trust the author of the addon, not the code you see in GitHub!
+Popular addon authors receives many "nice looking" offers to monetize them or to buy them. It's up to the addon author to resist these shady offers!
 
-I'm not gonna sell my addons to anyone and I don't plan to retire any time soon as I'm only 32 year young :).
-Some info about me:
+I'm not going to sell my addons to anyone and I don't plan to retire any time soon as I'm only 34 years young :).
+And did you know I'm official "Friend of Addons" at Mozilla? :)
+https://blog.mozilla.org/addons/2020/06/15/Friend-of-Add-ons-Juraj-Masiar/
+
+My linked in contact:
 https://www.linkedin.com/in/juraj-masiar/
-https://blog.mozilla.org/addons/2020/06/15/friend-of-add-ons-juraj-masiar/
 
 Enjoy my addons :)
 I hope they make you more productive!
