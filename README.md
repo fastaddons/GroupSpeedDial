@@ -10,15 +10,19 @@
 GroupSpeedDial is your ultimate bookmarks replacement.  
 With GroupSpeedDial you can access thousands of pages with few clicks on any device.
 
+## Download for:
 **Firefox:**  
-https://addons.mozilla.org/addon/groupspeeddial/
-
+https://addons.mozilla.org/addon/groupspeeddial/  
 **Chrome:**  
-https://chrome.google.com/webstore/detail/group-speed-dial/imfeikbeimbfpmgfkkmjekabdehiiajc
+https://chrome.google.com/webstore/detail/group-speed-dial/imfeikbeimbfpmgfkkmjekabdehiiajc  
+**Edge:**  
+https://microsoftedge.microsoft.com/addons/detail/group-speed-dial/kojjikkbfcjakhlofbjbnlmibabmmcie  
 
-
-### Privacy Policy
+## Privacy Policy
 [Read privacy policy here.](PRIVACY_POLICY.md)
 
-### License
+## Permission justification
+[Detailed description of permissions.](PERMISSION_JUSTIFICATION.md)
+
+## License
 [Copyright 2016-2021 Juraj Mäsiar - All Rights Reserved](LICENSE)
