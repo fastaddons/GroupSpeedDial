@@ -36,3 +36,6 @@ Using cloud related features can create requests to the Cloud server:
   
 4) Since version 12.3 you are able to use backgrounds from Bing.com page - the "Bing's image of the day". When this is enabled in Options page / Background, my add-on will make simple image request to bing.com domain to fetch new image every day. No private information are being sent!  
   
+## See also:
+🏠 [Wiki Home](https://github.com/fastaddons/GroupSpeedDial/wiki)  
+🚩 [Permission justification](https://github.com/fastaddons/GroupSpeedDial/blob/master/PERMISSION_JUSTIFICATION.md)
