@@ -27,3 +27,6 @@
 - "**Access browsing history**"
   - for a special dial called: "Top sites", that shows most visited sites (same as on the "about:home" or "chrome://new-tab-page" page)
 
+## See also:
+🏠 [Wiki Home](https://github.com/fastaddons/GroupSpeedDial/wiki)  
+🔒 [Privacy Policy](https://github.com/fastaddons/GroupSpeedDial/blob/master/PRIVACY_POLICY.md)
